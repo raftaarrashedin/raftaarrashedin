@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @raftaarrashedin
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me LinkedIn :- linkedin.com/in/md-rashedin-2a3768210
+                                                                                      Hi I'm MD RASHEDIN
+I have technical expertise in :
+        - Machine Learning
+        - Deep Learning
+        - Natural Language Processing
 
-<!---
-raftaarrashedin/raftaarrashedin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Hobbies and Interests :
+        - Writing
+        - Games and Music
+        - Photography
+
+Skills I know :
+          - Data Science :
+                - Machine Learning ( Sklean)
+                - Deep Learning (Tensorflow and Keras)
+                - Math
+                - MYSQL
+                - Data Visualization(Tablean, Power BI, MatplotLib, Seaborn)
+                - Python (along with Numpy, Pandas,...)
+                - Deployment ( Github)
+        - Web Development :
+                - HTML
+                - CSS
+                - BOOTSTRAP
+                - PHP
+      
