@@ -29,4 +29,6 @@ Skills I know :
                 - CSS
                 - BOOTSTRAP
                 - PHP
+                - Python with Flask and Django
+                - Node.js & Express
       
