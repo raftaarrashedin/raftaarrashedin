@@ -15,16 +15,24 @@ My Hobbies and Interests :
         - Photography
 
 Skills I know :
-
+          - Programming Languages :
+                - Java
+                - Python
+                - C++(Beginner) 
+                
+          - Database :
+                - MySQL
+                - MongoDB
+                
           - Data Science :
-                - Machine Learning ( Sklean)
+                - Machine Learning ( Sklearn)
                 - Deep Learning (Tensorflow and Keras)
                 - Math
-                - MYSQL
                 - Data Visualization(Tablean, Power BI, MatplotLib, Seaborn)
-                - Python (along with Numpy, Pandas,...)
-                - Deployment ( Github)
-        - Web Development :
+                - Python Libraries (Numpy, Pandas,...)
+                - Deployment ( Github,Docker)
+                
+        - Web Technologies :
                 - HTML
                 - CSS
                 - BOOTSTRAP
