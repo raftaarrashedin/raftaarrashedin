@@ -11,7 +11,7 @@ I have technical expertise in :
 My Hobbies and Interests :
 
         - Writing
-        - Games and Music
+        - Games and Music(Rap)
         - Photography
 
 Skills I know :
