@@ -41,4 +41,8 @@ Skills I know :
                 - PHP
                 - Python with Flask and Django
                 - Node.js & Express
+        - Others :
+                - Postman
+                - Thunder Client
+                - Xampp
       
