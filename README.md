@@ -20,7 +20,6 @@ Skills I know :
           - Programming Languages :
                 - Java
                 - Python
-                - C++(Beginner) 
                 
           - Database :
                 - MySQL
