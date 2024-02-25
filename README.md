@@ -7,6 +7,7 @@ I have technical expertise in :
         - Machine Learning
         - Deep Learning
         - Natural Language Processing
+        - Artificial Intelligence
 
 My Hobbies and Interests :
 
