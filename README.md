@@ -12,7 +12,7 @@ I have technical expertise in :
 My Hobbies and Interests :
 
         - Writing
-        - Games and Music(Rap)
+        - Games and Music(Desi Hip Hop)
         - Photography
 
 Skills I know :
